@@ -19,7 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
+<!---### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=StaceyKlun&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
